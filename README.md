@@ -44,8 +44,8 @@ Here are some ideas to get you started: -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 </header>
 <div>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ruivao&show_icons=true&theme=merko&include_all_commits=true&cont_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivao&theme=merko&layout=compact&langs_count=168"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ruivao&show_icons=true&theme=merko&include_all_commits=true&cont_private=true"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivao&theme=merko&layout=compact&langs_count=168"/>
 </div>
 <div>
        
